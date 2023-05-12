@@ -1,7 +1,7 @@
 ### Hi there, I'm Shivam :)>
 
 - 🔭 I’m currently studying and enhancing my knowledge in ML, as well as Sciences
-- 🌱 I’m currently exploring fields of NLP as well as Cyber Security
+- 🌱 I’m currently exploring fields of NLP
 - 📫 How to reach me: Feel free to drop a mail or reach any social media (for valid reason only)
 - ⚡ Hobbies: Gaming (Periodt)
 <!--
