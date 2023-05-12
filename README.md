@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying and enhancing my knowledge in ML, as well as Sciences
 - 🌱 I’m currently exploring fields of NLP as well as Cyber Security
-- 📫 How to reach me: Feel free to drop a mail or reach any social media (for valid reason)
+- 📫 How to reach me: Feel free to drop a mail or reach any social media (for valid reason only)
 - ⚡ Hobbies: Gaming (Periodt)
 <!--
 **iMshivam25/iMshivam25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
