@@ -1,8 +1,8 @@
 ### Hi there, I'm Shivam :)>
 
 - 🔭 I’m currently studying and enhancing my knowledge in ML & AI
-- 📫 How to reach me: Feel free to drop a mail or reach any social media (for valid reason only)
-- ⚡ Hobbies: Gaming (Periodt)
+- 📫 How to reach me: Feel free to drop a mail or reach any social media
+- ⚡ Hobbies: Gaming
 <!--
 **iMshivam25/iMshivam25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
